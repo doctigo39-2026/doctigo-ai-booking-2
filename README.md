@@ -1,1 +1,2 @@
-# doctigo-ai-booking-2
+# BOOKING_WITH_AI
+ITS JUST A DEMO RUN
